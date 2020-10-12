@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">COVID Tracker</string>
+    <string-array name="questions">
+        <item>Persistent pain or pressure in the chest?</item>
+        <item>Fever or chills?</item>
+        <item>Headache?</item>
+        <item>Temperature over 100.4℉？</item>
+        <item>Inability to wake or stay awake</item>
+        <item>Shortness of breath or difficulty breathing Fatigue?</item>
+
+    </string-array>
+    <string name="check">CHECK IN</string>
+    <string name="version">Version 1.0</string>
+    <string name="first_tips1"> Please fill out the following items truthfully!</string>
+    <string name="first_tips2"> Type Your Name Bellow to Verify the Above Information isTrue</string>
+    <string-array name="tips">
+        <item> Do remember to wash your hands more</item>
+        <item>Wear masks correctly when going out</item>
+        <item>More ventilation in the room</item>
+        <item>Do not eat wild animals </item>
+        <item>Do not take part in the dinner party</item>
+        <item>Make necessary material preparation</item>
+
+    </string-array>
+
+
+</resources>
